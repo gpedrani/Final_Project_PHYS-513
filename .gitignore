@@ -1,0 +1,4 @@
+.ipynb_checkpoints
+./Paper/*
+./__pycache__/*
+./images/*
